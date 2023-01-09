@@ -1,0 +1,43 @@
+.banner {
+    background: url("../img/banner.jpeg")
+      no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: purple;
+    height: 100vh;
+  }
+  .circle {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+  }
+  
+  .circle i {
+    position: relative;
+    top: 30px;
+  }
+  
+  .product-img {
+    object-fit: cover;
+  }
+ 
+  .client img {
+    height: auto;
+    max-height: 50px;
+  }
+  
+  .contact{
+    background: url("../img/map.jpeg") no-repeat
+      center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #eee;
+  }
+  
+  
